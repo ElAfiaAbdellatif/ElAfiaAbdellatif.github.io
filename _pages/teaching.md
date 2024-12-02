@@ -2,25 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Course materials for the modules taught at ENSIAS
 nav: true
 nav_order: 6
 ---
-# Machine Learning and Deep Learning Course Page
 
-## **1. Machine Learning**
 
-### **Course Description**
+#### **1. Machine Learning**
+
+##### **Course Description**
 This course provides an in-depth introduction to machine learning, covering fundamental algorithms, key concepts, and practical applications. Students will learn to implement models, understand their theoretical underpinnings, and apply them to solve real-world problems.
 
-### **Level**: Intermediate  
-### **Prerequisites**
+##### **Formation and Level**: 2IA - Semester 3  
+##### **Prerequisites**
 - Basic programming skills (Python recommended)
 - Understanding of linear algebra, probability, and statistics
 
-### **Number of Hours**: 30 hours  
+##### **Number of Hours**: 30 hours  
 
-### **Chapters**
+##### **Chapters**
 1. **Introduction to Machine Learning**
    - Concepts of supervised, unsupervised, and reinforcement learning  
    - [Download PDF](#)
@@ -42,20 +42,19 @@ This course provides an in-depth introduction to machine learning, covering fund
 
 ---
 
-## **2. Deep Learning**
+#### **2. Deep Learning**
 
-### **Course Description**
+##### **Course Description**
 This course dives into deep learning techniques, exploring neural network architectures, optimization methods, and cutting-edge tools for building advanced AI systems.
 
-### **Level**: Advanced  
-### **Prerequisites**
+##### **Formation and Level**: 2IA - Semester 3  
+##### **Prerequisites**
 - Solid understanding of Machine Learning concepts
 - Programming experience in Python
 - Familiarity with libraries like TensorFlow or PyTorch (recommended but not mandatory)
+##### **Number of Hours**: 40 hours  
 
-### **Number of Hours**: 40 hours  
-
-### **Chapters**
+##### **Chapters**
 1. **Introduction to Deep Learning**
    - Deep learning vs. machine learning  
    - [Download PDF](#)
@@ -78,12 +77,4 @@ This course dives into deep learning techniques, exploring neural network archit
    - Model saving, serving, and deployment  
    - [Download PDF](#)
 
----
-
-### **Additional Resources**
-- **Python Notebooks**: Interactive coding examples to accompany the courses.  
-- **Online Forum**: Connect with peers and instructors for discussions and support.  
-- **Practice Projects**: Real-world datasets for hands-on experience.
-
-For further details and access to course materials, contact [support@yourdomain.com](mailto:support@yourdomain.com).  
 
