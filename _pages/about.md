@@ -6,7 +6,7 @@ subtitle: <a href='http://ensias.um5.ac.ma/professor/m-abdellatif-el-afia'>ENSIA
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: file.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>123 Mohammed Ben Abdallah Regragui Avenue, Madinat Al Irfane, BP 713, Agdal</p> 
