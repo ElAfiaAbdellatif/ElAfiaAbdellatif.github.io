@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survival Analysis
-description: a project that redirects to another website
+description: Develop skills in analyzing time-to-event data, estimating survival probabilities, assessing risks, and predicting outcomes, particularly in healthcare and engineering contexts.
 img: assets/img/c4.png
 importance: 4
 category: Artificial Intelligence Engineering (2IA)
