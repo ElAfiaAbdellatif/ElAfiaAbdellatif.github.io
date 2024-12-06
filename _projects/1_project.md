@@ -5,5 +5,6 @@ description: Learn to identify optimal solutions for various practical problems 
 img: assets/img/c1.png
 importance: 1
 related_publications: false
+category: Artificial Intelligence Engineering (2IA)
 ---
 
