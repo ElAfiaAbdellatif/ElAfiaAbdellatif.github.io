@@ -4,7 +4,6 @@ title: Support Vector Machine
 description: a project that redirects to another website
 img: assets/img/c3.png
 importance: 3
-category: work
 ---
 
     ---
