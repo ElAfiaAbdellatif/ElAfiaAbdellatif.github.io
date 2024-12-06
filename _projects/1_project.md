@@ -17,7 +17,7 @@ category: Artificial Intelligence Engineering (2IA)
 
 ##### **Chapters**
 1. **Motivation and Basic Knowledge**
-   - [Download PDF](ElAfiaAbdellatif.github.io/assets/cours/Optimisation/chapitre1.pdf)
+   - [Download PDF](../assets/cours/Optimisation/chapitre1.pdf)
 2. **Unconstrained Optimization for Single Variable Functions**
    - [Download PDF](ElAfiaAbdellatif.github.io/assets/cours/Optimisation/chapitre2.pdf)
 3. **Unconstrained Optimization for Multi-Variable Functions**
