@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /courses/
+permalink: /projects/
 description: Course materials for the modules taught at ENSIAS.
 nav: true
 nav_order: 3
