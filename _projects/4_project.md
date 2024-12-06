@@ -4,6 +4,7 @@ title: Survival Analysis
 description: a project that redirects to another website
 img: assets/img/c4.png
 importance: 4
+category: Artificial Intelligence Engineering (2IA)
 ---
 
     ---
