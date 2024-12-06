@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Support Vector Machine
-description: a project that redirects to another website
+description: Master the theory and application of SVMs for both classification and regression tasks, including the use of kernel functions. 
 img: assets/img/c3.png
 category: Artificial Intelligence Engineering (2IA)
 importance: 3
