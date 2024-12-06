@@ -8,12 +8,10 @@ related_publications: false
 category: Artificial Intelligence Engineering (2IA)
 ---
 
-##### **Formation and Level**: 2IA - Semester 1 
+#####  2IA - Semester 1 - 56H
 ##### **Prerequisites**
 - Basic programming skills (Python recommended)
 - Understanding of linear algebra, Calculus
-
-##### **Number of Hours**: 56 hours  
 
 ##### **Chapters**
 1. **Motivation and Basic Knowledge**
