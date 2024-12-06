@@ -5,7 +5,7 @@ permalink: /projects/
 description: Course materials for the modules taught at ENSIAS.
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [Artificial Intelligence Engineering (2IA)]
 horizontal: false
 ---
 
