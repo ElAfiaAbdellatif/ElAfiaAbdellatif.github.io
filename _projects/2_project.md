@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Machine learning
-description: a project with a background image and giscus comments
+title: Machine Learning
+description: Gain a foundation in machine learning and statistical learning concepts, with a focus on supervised methods to build predictive and analytical models.
 img: assets/img/c2.png
 importance: 2
 category: Artificial Intelligence Engineering (2IA)
