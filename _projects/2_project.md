@@ -8,7 +8,7 @@ category: Artificial Intelligence Engineering (2IA)
 giscus_comments: false
 ---
 
-##### Machine Learning - 2IA - Semester 3 - 56 hours 
+##### 2IA - Semester 3 - 56 hours 
 #####  Prerequisites
 - Basic programming skills (Python recommended)
 - Optimization
