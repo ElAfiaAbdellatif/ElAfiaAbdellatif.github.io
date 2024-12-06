@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='http://ensias.um5.ac.ma/professor/m-abdellatif-el-afia'> ENSIAS, MOHAMMED V UNIVERSITY IN RABAT </a>.
 
