@@ -8,61 +8,52 @@ category: Artificial Intelligence Engineering (2IA)
 giscus_comments: false
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+##### Machine Learning - 2IA - Semester 3 - 56 hours 
+#####  Prerequisites
+- Basic programming skills (Python recommended)
+- Optimization
+- Understanding of linear algebra, Calculus
+#####  Courses
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+1. **Introduction to Machine Learning**
+   - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre1.pdf)
+2. **Learning Framework**
+   - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre2.pdf)
+3. **Uniform Convergence**
+   - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre3.pdf)
+4. **Learnability of Infinite Size Hypotheses Set**
+   - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre4.pdf)
+5. **Covering Number**
+   - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre5.pdf)
+6. **Tradeoff Bias/Variance**
+   - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre6.pdf)
+7. **Non-Uniform Learning**
+   - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre7.pdf)
+8. **Validation/Cross-Validation**
+   - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre8.pdf)
+9. **Regularization**
+   - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre9.pdf)
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+#####  TDs (Tutorials)
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- **TD1: General Concepts of Learning**
+  - [Download PDF](../../assets/cours/Machine%20Learning/TD/TD1.pdf)
+- **TD2: Training and Testing**
+  - [Download PDF](../../assets/cours/Machine%20Learning/TD/TD2.pdf)
+- **TD3: Linear Models**
+  - [Download PDF](../../assets/cours/Machine%20Learning/TD/TD3.pdf)
 
-{% raw %}
+#####  TPs (Practicals)
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+1. **Binary Classification: Perceptron, Adaline, Pocket**
+   - [Download PDF](../../assets/cours/Machine%20Learning/TP/TP1_slides.pdf)
+2. **Linear Regression**
+   - [Download PDF](../../assets/cours/Machine%20Learning/TP/TP2_slides.pdf)
+3. **Polynomial Regression**
+   - [Download PDF](../../assets/cours/Machine%20Learning/TP/TP3_slides.pdf)
+4. **Non-linear Transformations**
+   - [Download PDF](../../assets/cours/Machine%20Learning/TP/TP4_slides.pdf)
+5. **Multiclass Classification**
+   - [Download PDF](../../assets/cours/Machine%20Learning/TP/TP5_slides.pdf)
 
-{% endraw %}
+
