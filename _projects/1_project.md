@@ -17,18 +17,18 @@ category: Artificial Intelligence Engineering (2IA)
 
 ##### **Chapters**
 1. **Motivation and Basic Knowledge**
-   - [Download PDF](../assets/cours/Optimisation/chapitre1.pdf)
+   - [Download PDF](../assets/cours/optimisation/chapitre1.pdf)
 2. **Unconstrained Optimization for Single Variable Functions**
-   - [Download PDF](ElAfiaAbdellatif.github.io/assets/cours/Optimisation/chapitre2.pdf)
+   - [Download PDF](../assets/cours/optimisation/chapitre2.pdf)
 3. **Unconstrained Optimization for Multi-Variable Functions**
-   - [Download PDF](ElAfiaAbdellatif.github.io/assets/cours/Optimisation/chapitre3.pdf)
+   - [Download PDF](../assets/cours/optimisation/chapitre3.pdf)
 4. **Constrained Optimization: Convexity**
-   - [Download PDF](ElAfiaAbdellatif.github.io/assets/cours/Optimisation/chapitre4.pdf)
+   - [Download PDF](../assets/cours/optimisation/chapitre4.pdf)
 5. **Constrained Optimization: Optimality Conditions**
-   - [Download PDF](ElAfiaAbdellatif.github.io/assets/cours/Optimisation/chapitre5.pdf)
+   - [Download PDF](../assets/cours/optimisation/chapitre5.pdf)
 6. **Constrained Optimization: Primal Algorithms**
-   - [Download PDF](ElAfiaAbdellatif.github.io/assets/cours/Optimisation/chapitre6.pdf)
+   - [Download PDF](../assets/cours/optimisation/chapitre6.pdf)
 7. **Lagrangian Duality**
-   - [Download PDF](ElAfiaAbdellatif.github.io/assets/cours/Optimisation/chapitre7.pdf)
+   - [Download PDF](../assets/cours/optimisation/chapitre7.pdf)
 8. **Dual Methods**
-   - [Download PDF](ElAfiaAbdellatif.github.io/assets/cours/Optimisation/chapitre8.pdf)
+   - [Download PDF](../assets/cours/optimisation/chapitre8.pdf)
