@@ -8,7 +8,7 @@ related_publications: false
 category: Artificial Intelligence Engineering (2IA)
 ---
 
-##### **Formation and Level**: 2IA - Semester 3  
+##### **Formation and Level**: 2IA - Semester 1 
 ##### **Prerequisites**
 - Basic programming skills (Python recommended)
 - Understanding of linear algebra, Calculus
