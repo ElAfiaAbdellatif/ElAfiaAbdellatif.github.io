@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /projects/
+permalink: /teaching/
 description: Course materials for the modules taught at ENSIAS for first-year, second-year, and three-year engineering students.
 nav: true
 nav_order: 3
