@@ -18,28 +18,28 @@ nav_order: 6
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid #6c757d;">
+      <td style="padding: 12px; text-align: center;"><img src="../../assets/img/said.jpg" alt="HAMOUDDOU SAID" width="100" style="border-radius: 50%;"></td>
       <td style="padding: 12px;"><strong>OHAMOUDDOU SAID</strong></td>
-      <td style="padding: 12px;">AI, Machine Learning, 3D Data</td>
-      <td style="padding: 12px;"><a href="mailto:said_ohamouddou1@um5.ac.ma" style="color: #6c757d; text-decoration: none;">Email</a></td>
-      <td style="padding: 12px;"><a href="https://linkedin.com/in/said-ohamouddou" target="_blank" style="text-decoration: none;"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" style="vertical-align: middle;"> LinkedIn</a></td>
+      <td style="padding: 12px; text-align: center;"><a href="mailto:said_ohamouddou1@um5.ac.ma"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24"></a></td>
+      <td style="padding: 12px; text-align: center;"><a href="https://linkedin.com/in/said-ohamouddou" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"></a></td>
     </tr>
     <tr style="border-bottom: 1px solid #6c757d;">
+      <td style="padding: 12px; text-align: center;"><img src="../../assets/img/hamza.png" alt="BOULAICH MOHAMED HAMZA" width="100" style="border-radius: 50%;"></td>
       <td style="padding: 12px;"><strong>BOULAICH MOHAMED HAMZA</strong></td>
-      <td style="padding: 12px;">Machine Learning for Metasurfaces</td>
-      <td style="padding: 12px;"><a href="mailto:mohamedhamza_boulaich@um5.ac.ma" style="color: #6c757d; text-decoration: none;">Email</a></td>
-      <td style="padding: 12px;"><a href="https://linkedin.com/in/mohamedhamza-boulaich" target="_blank" style="text-decoration: none;"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" style="vertical-align: middle;"> LinkedIn</a></td>
+      <td style="padding: 12px; text-align: center;"><a href="mailto:mohamedhamza_boulaich@um5.ac.ma"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24"></a></td>
+      <td style="padding: 12px; text-align: center;"><a href="https://linkedin.com/in/mohamedhamza-boulaich" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"></a></td>
     </tr>
     <tr style="border-bottom: 1px solid #6c757d;">
+      <td style="padding: 12px; text-align: center;"><img src="https://via.placeholder.com/100" alt="Person 3" width="100" style="border-radius: 50%;"></td>
       <td style="padding: 12px;">--</td>
-      <td style="padding: 12px;">--</td>
-      <td style="padding: 12px;"><a href="mailto:person3@example.com" style="color: #6c757d; text-decoration: none;">Email</a></td>
-      <td style="padding: 12px;"><a href="https://linkedin.com" target="_blank" style="text-decoration: none;"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" style="vertical-align: middle;"> LinkedIn</a></td>
+      <td style="padding: 12px; text-align: center;"><a href="mailto:person3@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24"></a></td>
+      <td style="padding: 12px; text-align: center;"><a href="https://linkedin.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"></a></td>
     </tr>
     <tr>
+      <td style="padding: 12px; text-align: center;"><img src="https://via.placeholder.com/100" alt="Person 4" width="100" style="border-radius: 50%;"></td>
       <td style="padding: 12px;">--</td>
-      <td style="padding: 12px;">--</td>
-      <td style="padding: 12px;"><a href="mailto:person4@example.com" style="color: #6c757d; text-decoration: none;">Email</a></td>
-      <td style="padding: 12px;"><a href="https://linkedin.com" target="_blank" style="text-decoration: none;"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" style="vertical-align: middle;"> LinkedIn</a></td>
+      <td style="padding: 12px; text-align: center;"><a href="mailto:person4@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24"></a></td>
+      <td style="padding: 12px; text-align: center;"><a href="https://linkedin.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"></a></td>
     </tr>
   </tbody>
 </table>
