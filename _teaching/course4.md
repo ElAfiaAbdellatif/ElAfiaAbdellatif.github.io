@@ -7,14 +7,15 @@ importance: 4
 category: Artificial Intelligence Engineering (2IA)
 ---
 
-###### 2IA - Semester 3 - 28H
+###### 2IA - Semester 5 - 28H
 ##### Prerequisites
-- Basic programming skills (Python recommended)
+- Linear algebra and calculus
+- Programming skills (Python recommended)
 - Optimization
+- Statistics
 - Machine learning
-- Understanding of linear algebra and calculus
 
-##### Courses
+##### Lecture Slides
 1. **Chapter 1: Models and Data**
    - [Download PDF](../../assets/cours/Analyse%20de%20survie/seance%201_%20Models_%20data.pdf)
 2. **Chapter 2: Kaplan-Meier Estimator**
@@ -29,4 +30,16 @@ category: Artificial Intelligence Engineering (2IA)
    - [Download PDF](../../assets/cours/Analyse%20de%20survie/seance%206_%20Arbres%20de%20d%C3%A9cision.pdf)
 7. **Chapter 7: K-Nearest Neighbors for Survival Analysis**
    - [Download PDF](../../assets/cours/Analyse%20de%20survie/seance%207_%20KNN%20de%20survie.pdf)
+
+##### Lecture Notes
+1. **Chapter 1: Models and Data**
+   - [Download PDF](../../assets/cours/Analyse%20de%20survie/chapitre%201.pdf)
+2. **Chapter 2: Kaplan-Meier Estimator**
+   - [Download PDF](../../assets/cours/Analyse%20de%20survie/chapitre%202.pdf)
+3. **Chapter 3: Cox Proportional Hazards Model**
+   - [Download PDF](../../assets/cours/Analyse%20de%20survie/chapitre%203.pdf)
+4. **Chapter 4: Handling Missing Data**
+   - [Download PDF](../../assets/cours/Analyse%20de%20survie/chapitre%204.pdf)
+5. **Chapter 5: Survival Trees**
+   - [Download PDF](../../assets/cours/Analyse%20de%20survie/chapitre%205.pdf)
 
