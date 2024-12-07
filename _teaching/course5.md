@@ -27,5 +27,3 @@ category: Artificial Intelligence Engineering (2IA)
 4. **Practical Work (TPs)**
    - Hands-on sessions to implement and test bio-inspired algorithms on real-world problems.
    - [Download PDF](../../assets/cours/bio-inspired/TPs.pdf)
-
-This course introduces students to cutting-edge bio-inspired computational methods, emphasizing their applications in Artificial Intelligence and optimization.
