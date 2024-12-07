@@ -2,12 +2,11 @@
 layout: page
 permalink: /team/
 title: Team
-description: Course materials for the modules taught at ENSIAS
+description: Team
 nav: true
 nav_order: 6
 ---
 
-# **Person Grid**
 
 | Image                      | Name      | Search Interests        | Email                |
 |----------------------------|-----------|-------------------------|----------------------|
