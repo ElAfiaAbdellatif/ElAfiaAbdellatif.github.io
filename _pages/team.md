@@ -2,7 +2,7 @@
 layout: page
 permalink: /team/
 title: Team
-description: Team
+description: This page presents the search team, the number of PhD students, and professionals.
 nav: true
 nav_order: 6
 ---
