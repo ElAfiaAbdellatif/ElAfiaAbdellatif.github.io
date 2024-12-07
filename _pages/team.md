@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 
-<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
+<table style="border-collapse: collapse; width: 100%; border: 3px solid black;">
   <tr>
     <th style="border: 1px solid black; padding: 8px;">Image</th>
     <th style="border: 1px solid black; padding: 8px;">Name</th>
@@ -24,7 +24,7 @@ nav_order: 6
   <tr>
     <td style="border: 1px solid black; padding: 8px;"><img src="https://via.placeholder.com/150" alt="PBOULAICH MOHAMED HAMZA"></td>
     <td style="border: 1px solid black; padding: 8px;"><strong>BOULAICH MOHAMED HAMZA</strong></td>
-    <td style="border: 1px solid black; padding: 8px;">--</td>
+    <td style="border: 1px solid black; padding: 8px;">Machine Learning for Metasurfaces </td>
     <td style="border: 1px solid black; padding: 8px;"><a href="mailto:mohamedhamza_boulaich@um5.ac.ma">Email</a></td>
   </tr>
   <tr>
