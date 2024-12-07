@@ -7,39 +7,67 @@ nav: true
 nav_order: 6
 ---
 
-<table style="border-collapse: collapse; width: 100%; margin: 20px 0; font-family: Arial, sans-serif; font-size: 16px; color: #6c757d; background-color: transparent; border: 2px solid #6c757d; border-radius: 12px; overflow: hidden;">
-  <thead style="background-color: #6c757d; color: #fff;">
+<table style="border-collapse: collapse; width: 100%; margin: 20px 0; font-family: Arial, sans-serif; font-size: 16px; color: #6c757d; background-color: transparent; border: 2px solid #6c757d; border-radius: 8px; overflow: hidden;">
+  <thead style="background-color: #6c757d; color: #fff; border-top-left-radius: 8px; border-top-right-radius: 8px;">
     <tr>
+      <th style="padding: 12px; text-align: left;">Profile</th>
       <th style="padding: 12px; text-align: left;">Name</th>
       <th style="padding: 12px; text-align: left;">Search Interests</th>
       <th style="padding: 12px; text-align: left;">Contact</th>
-      <th style="padding: 12px; text-align: left;">LinkedIn</th>
     </tr>
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid #6c757d;">
       <td style="padding: 12px; text-align: center;"><img src="../../assets/img/said.jpg" alt="HAMOUDDOU SAID" width="100" style="border-radius: 50%;"></td>
       <td style="padding: 12px;"><strong>OHAMOUDDOU SAID</strong></td>
-      <td style="padding: 12px; text-align: center;"><a href="mailto:said_ohamouddou1@um5.ac.ma"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24"></a></td>
-      <td style="padding: 12px; text-align: center;"><a href="https://linkedin.com/in/said-ohamouddou" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"></a></td>
+      <td style="padding: 12px;">AI, Machine Learning, 3D Data</td>
+      <td style="padding: 12px;">
+        <a href="mailto:said_ohamouddou1@um5.ac.ma" style="color: #6c757d; text-decoration: none; margin-right: 10px;">
+          <img src="https://via.placeholder.com/20/000000?text=@" alt="Email" style="vertical-align: middle; margin-right: 5px;">Email
+        </a>
+        <a href="https://www.linkedin.com/in/said" target="_blank" style="color: #6c757d; text-decoration: none;">
+          <img src="https://via.placeholder.com/20/0000FF?text=L" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">LinkedIn
+        </a>
+      </td>
     </tr>
     <tr style="border-bottom: 1px solid #6c757d;">
       <td style="padding: 12px; text-align: center;"><img src="../../assets/img/hamza.png" alt="BOULAICH MOHAMED HAMZA" width="100" style="border-radius: 50%;"></td>
       <td style="padding: 12px;"><strong>BOULAICH MOHAMED HAMZA</strong></td>
-      <td style="padding: 12px; text-align: center;"><a href="mailto:mohamedhamza_boulaich@um5.ac.ma"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24"></a></td>
-      <td style="padding: 12px; text-align: center;"><a href="https://linkedin.com/in/mohamedhamza-boulaich" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"></a></td>
+      <td style="padding: 12px;">Machine Learning for Metasurfaces</td>
+      <td style="padding: 12px;">
+        <a href="mailto:mohamedhamza_boulaich@um5.ac.ma" style="color: #6c757d; text-decoration: none; margin-right: 10px;">
+          <img src="https://via.placeholder.com/20/000000?text=@" alt="Email" style="vertical-align: middle; margin-right: 5px;">Email
+        </a>
+        <a href="https://www.linkedin.com/in/hamza" target="_blank" style="color: #6c757d; text-decoration: none;">
+          <img src="https://via.placeholder.com/20/0000FF?text=L" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">LinkedIn
+        </a>
+      </td>
     </tr>
     <tr style="border-bottom: 1px solid #6c757d;">
       <td style="padding: 12px; text-align: center;"><img src="https://via.placeholder.com/100" alt="Person 3" width="100" style="border-radius: 50%;"></td>
       <td style="padding: 12px;">--</td>
-      <td style="padding: 12px; text-align: center;"><a href="mailto:person3@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24"></a></td>
-      <td style="padding: 12px; text-align: center;"><a href="https://linkedin.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"></a></td>
+      <td style="padding: 12px;">--</td>
+      <td style="padding: 12px;">
+        <a href="mailto:person3@example.com" style="color: #6c757d; text-decoration: none; margin-right: 10px;">
+          <img src="https://via.placeholder.com/20/000000?text=@" alt="Email" style="vertical-align: middle; margin-right: 5px;">Email
+        </a>
+        <a href="https://www.linkedin.com" target="_blank" style="color: #6c757d; text-decoration: none;">
+          <img src="https://via.placeholder.com/20/0000FF?text=L" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">LinkedIn
+        </a>
+      </td>
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center;"><img src="https://via.placeholder.com/100" alt="Person 4" width="100" style="border-radius: 50%;"></td>
       <td style="padding: 12px;">--</td>
-      <td style="padding: 12px; text-align: center;"><a href="mailto:person4@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24"></a></td>
-      <td style="padding: 12px; text-align: center;"><a href="https://linkedin.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"></a></td>
+      <td style="padding: 12px;">--</td>
+      <td style="padding: 12px;">
+        <a href="mailto:person4@example.com" style="color: #6c757d; text-decoration: none; margin-right: 10px;">
+          <img src="https://via.placeholder.com/20/000000?text=@" alt="Email" style="vertical-align: middle; margin-right: 5px;">Email
+        </a>
+        <a href="https://www.linkedin.com" target="_blank" style="color: #6c757d; text-decoration: none;">
+          <img src="https://via.placeholder.com/20/0000FF?text=L" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">LinkedIn
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
