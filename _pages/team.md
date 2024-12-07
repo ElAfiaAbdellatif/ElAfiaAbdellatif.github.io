@@ -11,7 +11,7 @@ nav_order: 6
 | Image                      | Name      | Search Interests        | Email                |
 |----------------------------|-----------|-------------------------|----------------------|
 | ![HAMOUDDOU SAID](../../assets/img/said.jpg) | **OHAMOUDDOU SAID** | AI, Machine Learning, 3D data   | [Email](mailto:said_ohamouddou1@um5.ac.ma) |
-| ![PBOULAICH MOHAMED HAMZA](https://via.placeholder.com/150) |**BOULAICH MOHAMED HAMZA**| --| [Email](mohamedhamza_boulaich@um5.ac.ma |
+| ![PBOULAICH MOHAMED HAMZA](https://via.placeholder.com/150) |**BOULAICH MOHAMED HAMZA**| --| [Email](mailto:mohamedhamza_boulaich@um5.ac.ma) |
 | ![Person 3](https://via.placeholder.com/150) |--| --   | [Email](mailto:person3@example.com) |
 | ![Person 4](https://via.placeholder.com/150) | -- |-- | [Email](mailto:person4@example.com) |
 
