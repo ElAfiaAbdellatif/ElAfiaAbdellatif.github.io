@@ -23,10 +23,10 @@ nav_order: 6
       <td style="padding: 12px;">AI, Machine Learning, 3D Data</td>
       <td style="padding: 12px;">
         <a href="mailto:said_ohamouddou1@um5.ac.ma" style="color: #6c757d; text-decoration: none; margin-right: 10px;">
-          <img src="https://via.placeholder.com/20/000000?text=@" alt="Email" style="vertical-align: middle; margin-right: 5px;">Email
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="20" style="vertical-align: middle; margin-right: 5px;">Email
         </a>
         <a href="https://www.linkedin.com/in/said" target="_blank" style="color: #6c757d; text-decoration: none;">
-          <img src="https://via.placeholder.com/20/0000FF?text=L" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">LinkedIn
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 5px;">LinkedIn
         </a>
       </td>
     </tr>
@@ -36,10 +36,10 @@ nav_order: 6
       <td style="padding: 12px;">Machine Learning for Metasurfaces</td>
       <td style="padding: 12px;">
         <a href="mailto:mohamedhamza_boulaich@um5.ac.ma" style="color: #6c757d; text-decoration: none; margin-right: 10px;">
-          <img src="https://via.placeholder.com/20/000000?text=@" alt="Email" style="vertical-align: middle; margin-right: 5px;">Email
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="20" style="vertical-align: middle; margin-right: 5px;">Email
         </a>
         <a href="https://www.linkedin.com/in/hamza" target="_blank" style="color: #6c757d; text-decoration: none;">
-          <img src="https://via.placeholder.com/20/0000FF?text=L" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">LinkedIn
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 5px;">LinkedIn
         </a>
       </td>
     </tr>
@@ -49,10 +49,10 @@ nav_order: 6
       <td style="padding: 12px;">--</td>
       <td style="padding: 12px;">
         <a href="mailto:person3@example.com" style="color: #6c757d; text-decoration: none; margin-right: 10px;">
-          <img src="https://via.placeholder.com/20/000000?text=@" alt="Email" style="vertical-align: middle; margin-right: 5px;">Email
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="20" style="vertical-align: middle; margin-right: 5px;">Email
         </a>
         <a href="https://www.linkedin.com" target="_blank" style="color: #6c757d; text-decoration: none;">
-          <img src="https://via.placeholder.com/20/0000FF?text=L" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">LinkedIn
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 5px;">LinkedIn
         </a>
       </td>
     </tr>
@@ -62,10 +62,10 @@ nav_order: 6
       <td style="padding: 12px;">--</td>
       <td style="padding: 12px;">
         <a href="mailto:person4@example.com" style="color: #6c757d; text-decoration: none; margin-right: 10px;">
-          <img src="https://via.placeholder.com/20/000000?text=@" alt="Email" style="vertical-align: middle; margin-right: 5px;">Email
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="20" style="vertical-align: middle; margin-right: 5px;">Email
         </a>
         <a href="https://www.linkedin.com" target="_blank" style="color: #6c757d; text-decoration: none;">
-          <img src="https://via.placeholder.com/20/0000FF?text=L" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">LinkedIn
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 5px;">LinkedIn
         </a>
       </td>
     </tr>
