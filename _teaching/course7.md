@@ -15,7 +15,7 @@ category: Artificial Intelligence Engineering (2IA)
 ###### **Number of Hours**
 - 28 hours
 
-##### **Chapters Overview**
+##### **Lecture Slides**
 
 1. **Apprentissage Automatique: Partie 1**
    - [Download PDF](../../assets/cours/Predictive%20systems/ML-TS%201.pdf)
