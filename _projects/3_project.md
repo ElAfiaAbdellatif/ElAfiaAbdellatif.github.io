@@ -13,17 +13,17 @@ importance: 3
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
-###### 2IA - Semester 3 - 56H
-##### Prerequisites
+# 2IA - Semester 3 - 56H
+## Prerequisites
 - Basic programming skills (Python recommended)
 - Optimization
 - Machine learning
 - Understanding of linear algebra, Calculus
+- 
+<div style="display:flex; justify-content:space-between;">
+<div style="width:50%;">
 
-##### Number of Hours
-- 56 hours 
-
-##### Courses
+## Courses
 1. **Introduction to Support Vector Machines**
    - [Download PDF](/Support%20Vector%20Maching/Part0-Introduction.pdf)
 2. **Duality Theory**
@@ -36,6 +36,10 @@ importance: 3
    - [Download PDF](/Support%20Vector%20Maching/Part4-NoLinear-SVM.pdf)
 6. **Theory of Kernel Functions**
    - [Download PDF](/Support%20Vector%20Maching/Part5-Theory%20of%20kernel%20function.pdf)
+
+</div>
+<div style="width:50%;">
+
 7. **Kernel Functions in Practice**
    - [Download PDF](/Support%20Vector%20Maching/Part5-kernel%20functions.pdf)
 8. **Margin Theory**
@@ -48,4 +52,8 @@ importance: 3
    - [Download PDF](/Support%20Vector%20Maching/Part8-RSVR.pdf)
 12. **Handling Stochastic Data in SVM**
    - [Download PDF](/Support%20Vector%20Maching/Part10-Stochastic%20data.pdf)
+
+</div>
+</div>
+
 
