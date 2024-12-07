@@ -16,26 +16,26 @@ importance: 3
 
 ##### Courses
 1. **Chapter 1: Introduction to Support Vector Machines**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter1-Introduction.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part0-Introduction.pdf)
 2. **Chapter 2: Duality Theory**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter2-Duality%20Theory.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part1-Duality%20Theory.pdf)
 3. **Chapter 3: Linear Classification**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter3-Linear%20Classification.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part2-Linear%20Classification.pdf)
 4. **Chapter 4: Linear Regression in SVM Context**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter4-Linear%20Regression.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part3-Linear%20Regression.pdf)
 5. **Chapter 5: Non-Linear SVM**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter5-NoLinear-SVM.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part4-NoLinear-SVM.pdf)
 6. **Chapter 6: Theory of Kernel Functions**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter6-Theory%20of%20kernel%20function.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part5-Theory%20of%20kernel%20function.pdf)
 7. **Chapter 7: Kernel Functions in Practice**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter7-kernel%20functions.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part6-kernel%20functions.pdf)
 8. **Chapter 8: Margin Theory**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter8-Margin%20Theory.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part7-Margin%20Theory.pdf)
 9. **Chapter 9: Penalty Methods in SVM**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter9-Penalty%20Methods.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part8-Penalty%20Methods.pdf)
 10. **Chapter 10: Regular SVM**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter10-RSVM.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part9-RSVM.pdf)
 11. **Chapter 11: Regular SVM for Regression**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter11-RSVR.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part10-RSVR.pdf)
 12. **Chapter 12: Handling Stochastic Data in SVM**
-   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter12-Stochastic%20data.pdf)
+   - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part11-Stochastic%20data.pdf)
