@@ -10,7 +10,7 @@ nav_order: 6
 <table style="border-collapse: collapse; width: 100%; margin: 20px 0; font-family: Arial, sans-serif; font-size: 16px; color: #6c757d; background-color: transparent; border: 2px solid #6c757d; border-radius: 8px; overflow: hidden;">
   <thead style="background-color: #6c757d; color: #fff; border-top-left-radius: 8px; border-top-right-radius: 8px;">
     <tr>
-      <th style="padding: 12px; text-align: left;">Profile</th>
+      <th style="padding: 12px; text-align: left;"></th>
       <th style="padding: 12px; text-align: left;">Name</th>
       <th style="padding: 12px; text-align: left;">Search Interests</th>
       <th style="padding: 12px; text-align: left;">Contact</th>
