@@ -38,7 +38,7 @@ nav_order: 6
         <a href="mailto:mohamedhamza_boulaich@um5.ac.ma" style="color: #6c757d; text-decoration: none; margin-right: 10px;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="20" style="vertical-align: middle; margin-right: 5px;">Email
         </a>
-        <a href="https://www.linkedin.com/in/" target="_blank" style="color: #6c757d; text-decoration: none;">
+        <a href="https://www.linkedin.com/in/mohamed-hamza-395418219/" target="_blank" style="color: #6c757d; text-decoration: none;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 5px;">LinkedIn
         </a>
       </td>
