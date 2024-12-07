@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Course materials for the modules taught at ENSIAS for first-year, second-year, and three-year engineering students.
 nav: true
 nav_order: 3
-display_categories: [Artificial Intelligence Engineering (2IA)]
+display_categories: [Artificial Intelligence Engineering (2IA),Others]
 horizontal: false
 ---
 
