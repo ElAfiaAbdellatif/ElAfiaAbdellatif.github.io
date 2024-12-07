@@ -10,10 +10,10 @@ giscus_comments: false
 
 ##### 2IA - Semester 3 - 56 hours 
 #####  Prerequisites
+- Linear algebra, Calculus
 - Basic programming skills (Python recommended)
 - Optimization
-- Understanding of linear algebra, Calculus
-#####  Courses
+#####  **Lecture Slides**
 
 1. **Introduction to Machine Learning**
    - [Download PDF](../../assets/cours/Machine%20Learning/Course/Chapitre1.pdf)
