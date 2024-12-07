@@ -14,7 +14,7 @@ category: Artificial Intelligence Engineering (2IA)
 - Understanding of machine learning
 - Strong foundation in linear algebra and calculus
 
-#####   **Chapters Overview**
+#####   **Lecture Slides**
 
 0. **Motivation**
    - Introduction to the importance and applications of time series analysis.
