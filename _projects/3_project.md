@@ -7,53 +7,36 @@ category: Artificial Intelligence Engineering (2IA)
 importance: 3
 ---
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-# 2IA - Semester 3 - 56H
-## Prerequisites
+###### 2IA - Semester 3 - 56H
+##### Prerequisites
 - Basic programming skills (Python recommended)
 - Optimization
 - Machine learning
 - Understanding of linear algebra, Calculus
-- 
-<div style="display:flex; justify-content:space-between;">
-<div style="width:50%;">
 
-## Courses
-1. **Introduction to Support Vector Machines**
-   - [Download PDF](/Support%20Vector%20Maching/Part0-Introduction.pdf)
-2. **Duality Theory**
-   - [Download PDF](/Support%20Vector%20Maching/Part1-Duality%20Theory.pdf)
-3. **Linear Classification**
-   - [Download PDF](/Support%20Vector%20Maching/Part2-Linear%20Classification.pdf)
-4. **Linear Regression in SVM Context**
-   - [Download PDF](/Support%20Vector%20Maching/Part3-Linear%20Regression.pdf)
-5. **Non-Linear SVM**
-   - [Download PDF](/Support%20Vector%20Maching/Part4-NoLinear-SVM.pdf)
-6. **Theory of Kernel Functions**
-   - [Download PDF](/Support%20Vector%20Maching/Part5-Theory%20of%20kernel%20function.pdf)
-
-</div>
-<div style="width:50%;">
-
-7. **Kernel Functions in Practice**
-   - [Download PDF](/Support%20Vector%20Maching/Part5-kernel%20functions.pdf)
-8. **Margin Theory**
-   - [Download PDF](/Support%20Vector%20Maching/Part6-Margin%20Theory.pdf)
-9. **Penalty Methods in SVM**
-   - [Download PDF](/Support%20Vector%20Maching/Part6-Penalty%20Methods.pdf)
-10. **Regular SVM**
-   - [Download PDF](/Support%20Vector%20Maching/Part7-RSVM.pdf)
-11. **Regular SVM for Regression**
-   - [Download PDF](/Support%20Vector%20Maching/Part8-RSVR.pdf)
-12. **Handling Stochastic Data in SVM**
-   - [Download PDF](/Support%20Vector%20Maching/Part10-Stochastic%20data.pdf)
-
-</div>
-</div>
-
-
+##### Courses
+1. **Chapter 1: Introduction to Support Vector Machines**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter1-Introduction.pdf)
+2. **Chapter 2: Duality Theory**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter2-Duality%20Theory.pdf)
+3. **Chapter 3: Linear Classification**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter3-Linear%20Classification.pdf)
+4. **Chapter 4: Linear Regression in SVM Context**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter4-Linear%20Regression.pdf)
+5. **Chapter 5: Non-Linear SVM**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter5-NoLinear-SVM.pdf)
+6. **Chapter 6: Theory of Kernel Functions**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter6-Theory%20of%20kernel%20function.pdf)
+7. **Chapter 7: Kernel Functions in Practice**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter7-kernel%20functions.pdf)
+8. **Chapter 8: Margin Theory**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter8-Margin%20Theory.pdf)
+9. **Chapter 9: Penalty Methods in SVM**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter9-Penalty%20Methods.pdf)
+10. **Chapter 10: Regular SVM**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter10-RSVM.pdf)
+11. **Chapter 11: Regular SVM for Regression**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter11-RSVR.pdf)
+12. **Chapter 12: Handling Stochastic Data in SVM**
+   - [Download PDF](/Support%20Vector%20Maching/Chapter12-Stochastic%20data.pdf)
+"
