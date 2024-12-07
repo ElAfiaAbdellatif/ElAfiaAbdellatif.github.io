@@ -14,9 +14,6 @@ category: Artificial Intelligence Engineering (2IA)
 - Machine learning
 - Understanding of linear algebra and calculus
 
-##### Number of Hours
-- 28 hours 
-
 ##### Courses
 1. **Chapter 1: Models and Data**
    - [Download PDF](../../assets/cours/Analyse%20de%20survie/seance%201_%20Models_%20data.pdf)
