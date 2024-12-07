@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BIO-inspired AI
+title: Bio-inspired AI
 description: Bio-Inspired AI explores algorithms modeled on natural systems, focusing on evolutionary computation, neural networks, and swarm intelligence for innovative problem-solving.
 img: assets/img/c7.png
 importance: 5
