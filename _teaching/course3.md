@@ -7,14 +7,13 @@ category: Artificial Intelligence Engineering (2IA)
 importance: 3
 ---
 
-###### 2IA - Semester 3 - 56H
+###### 2IA - Semester 4 - 56H
 ##### Prerequisites
+- Linear algebra, Calculus
 - Basic programming skills (Python recommended)
 - Optimization
 - Machine learning
-- Understanding of linear algebra, Calculus
-
-##### Courses
+##### **Lecture Slides**
 1. **Chapter 1: Introduction to Support Vector Machines**
    - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Part0-Introduction.pdf)
 2. **Chapter 2: Duality Theory**
