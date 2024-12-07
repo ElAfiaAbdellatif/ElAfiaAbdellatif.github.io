@@ -39,4 +39,3 @@ importance: 3
    - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter11-RSVR.pdf)
 12. **Chapter 12: Handling Stochastic Data in SVM**
    - [Download PDF](../../assets/cours/Support%20Vector%20Maching/Chapter12-Stochastic%20data.pdf)
-"
