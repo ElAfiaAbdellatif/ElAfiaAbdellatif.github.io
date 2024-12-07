@@ -14,7 +14,7 @@ category: Artificial Intelligence Engineering (2IA)
 - Basic programming skills (Python preferred).
 - Familiarity with fundamental machine learning and optimization concepts.
 
-##### **Chapters Overview**
+##### **Lecture Slides**
 1. **Bio-Inspired Algorithms**
    - Dive into a variety of bio-inspired techniques, such as swarm intelligence.
    - [Download PDF](../../assets/cours/bio-inspired/Bioinspired%20Algorithms.pdf)
