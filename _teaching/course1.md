@@ -11,9 +11,9 @@ category: Artificial Intelligence Engineering (2IA)
 #####  2IA - Semester 1 - 56H
 ##### **Prerequisites**
 - Basic programming skills (Python recommended)
-- Understanding of linear algebra, Calculus
+- Linear algebra, Calculus
 
-##### **Chapters**
+##### **Lecture Slides**
 1. **Motivation and Basic Knowledge**
    - [Download PDF](../../assets/cours/optimisation/chapitre1.pdf)
 2. **Unconstrained Optimization for Single Variable Functions**
